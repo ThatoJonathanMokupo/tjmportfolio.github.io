@@ -103,7 +103,7 @@
                 <div class="col-md-6 col-lg-3">
                     <div class="card h-100 skill-card">
                         <div class="card-body text-center">
-                            <i class="fab fa-database fa-3x text-warning mb-3"></i>
+                            <i class="fas fa-database fa-3x text-info mb-3"></i>
                             <h3 class="card-title h5">SQL</h3>
                             <div class="progress">
                                 <div class="progress-bar bg-warning" role="progressbar" style="width: 80%"></div>
@@ -114,7 +114,7 @@
                 <div class="col-md-6 col-lg-3">
                     <div class="card h-100 skill-card">
                         <div class="card-body text-center">
-                            <i class="fab fa-robot fa-3x text-warning mb-3"></i>
+                            <i class="fas fa-brain fa-3x text-info mb-3"></i>
                             <h3 class="card-title h5">AI</h3>
                             <div class="progress">
                                 <div class="progress-bar bg-warning" role="progressbar" style="width: 80%"></div>
