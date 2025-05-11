@@ -55,7 +55,7 @@
                     <p class="lead">Hello! I'm Thato Jonathan Mokupo but Jonathan is fine I'am an aspiring developer currently looking for work in the It field with a lot of different proficiencies i will allow my CV to explain more.</p>
                     <p>A short overview is that I specialize in back end OOP how ever i do have some front end skills as well as experience in 4IR and hardware as well as database administration as I have experience as a simulation engineer and Digitial transformation officer.</p>
                     <p>When I'm not coding, you can find me partaking in a few differetn hobbies such as Gaming,working on my car,excercising,learning about new technology and studying for my Bcom in IT.</p>
-                    <a href="#" class="btn btn-primary mt-3">Download CV</a>
+                    <a href="ThatoJonathanMokupoCV" class="btn btn-primary mt-3">Download CV</a>
                 </div>
                 <div class="col-lg-6">
                     <img src="[https://via.placeholder.com/600x400](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROlzguvilzJL4yDaSpofKJyytnW6zC8pUp8g&s)" alt="Thato Jonathan Mokupo" class="img-fluid rounded shadow">
@@ -105,7 +105,7 @@
                     <div class="card h-100 skill-card">
                         <div class="card-body text-center">
                             <i class="fab fa-bootstrap fa-3x text-purple mb-3"></i>
-                            <h3 class="card-title h5"></h3>
+                            <h3 class="card-title h5">SQL</h3>
                             <div class="progress">
                                 <div class="progress-bar" role="progressbar" style="width: 88%; background-color: #7952b3;"></div>
                             </div>
@@ -115,7 +115,6 @@
             </div>
         </div>
     </section>
-
     <!-- Projects Section -->
     <section id="projects" class="py-5">
         <div class="container">
@@ -128,9 +127,27 @@
                             <h3 class="card-title h5">E-commerce Website</h3>
                             <p class="card-text">A fully responsive e-commerce platform with shopping cart and payment integration.</p>
                             <div class="d-flex gap-2">
-                                <span class="badge bg-primary">HTML</span>
-                                <span class="badge bg-info">CSS</span>
-                                <span class="badge bg-warning text-dark">JavaScript</span>
+                                <span class="badge bg-primary">SQL</span>
+                                <span class="badge bg-info">Java</span>
+                                <span class="badge bg-warning text-dark">HTML</span>
+                            </div>
+                        </div>
+                        <div class="card-footer bg-white border-top-0">
+                            <a href="https://github.com/ThatoJonathanMokupo/Java-Projects/blob/main/corpogear.java" class="btn btn-outline-primary me-2">View Live</a>
+                            <a href="https://github.com/ThatoJonathanMokupo/Java-Projects/blob/main/corpogear.java" class="btn btn-outline-dark">Source Code</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="card project-card h-100">
+                        <img src="https://via.placeholder.com/600x400" class="card-img-top" alt="Project 2">
+                        <div class="card-body">
+                            <h3 class="card-title h5">FiveM GTA RP Server.</h3>
+                            <p class="card-text">Immersive and highly customizable gaming experience built off of GTA V and ESX and QB Core framework.</p>
+                            <div class="d-flex gap-2">
+                                <span class="badge bg-primary">LUA</span>
+                                <span class="badge bg-info">SQL</span>
+                                <span class="badge bg-warning text-dark">Discord</span>
                             </div>
                         </div>
                         <div class="card-footer bg-white border-top-0">
@@ -143,17 +160,30 @@
                     <div class="card project-card h-100">
                         <img src="https://via.placeholder.com/600x400" class="card-img-top" alt="Project 2">
                         <div class="card-body">
-                            <h3 class="card-title h5">Portfolio Website</h3>
-                            <p class="card-text">A personal portfolio website to showcase skills and projects with a modern design.</p>
+                            <h3 class="card-title h5">QP Drone Tech Website.</h3>
+                            <p class="card-text">My previous employers website.</p>
                             <div class="d-flex gap-2">
-                                <span class="badge bg-primary">HTML</span>
-                                <span class="badge bg-info">CSS</span>
-                                <span class="badge bg-warning text-dark">JavaScript</span>
+                                <span class="badge bg-primary">Wordpress</span>
                             </div>
                         </div>
                         <div class="card-footer bg-white border-top-0">
-                            <a href="#" class="btn btn-outline-primary me-2">View Live</a>
-                            <a href="#" class="btn btn-outline-dark">Source Code</a>
+                            <a href="https://www.qpdronetech.co.za/" class="btn btn-outline-primary me-2">View Live</a>
+                        </div>
+                    </div>
+                </div>
+                 <div class="col-md-6 col-lg-4">
+                    <div class="card project-card h-100">
+                        <img src="https://via.placeholder.com/600x400" class="card-img-top" alt="Project 2">
+                        <div class="card-body">
+                            <h3 class="card-title h5">Flight booking system.</h3>
+                            <p class="card-text">Simple booking system..</p>
+                            <div class="d-flex gap-2">
+                                <span class="badge bg-primary">Java</span>
+                            </div>
+                        </div>
+                        <div class="card-footer bg-white border-top-0">
+                            <a href="https://github.com/ThatoJonathanMokupo/Java-Projects/blob/main/tair.java" class="btn btn-outline-primary me-2">View Live</a>
+                            <a href="[https://www.qpdronetech.co.za/](https://github.com/ThatoJonathanMokupo/Java-Projects/blob/main/tair.java)" class="btn btn-outline-dark">Source Code</a>
                         </div>
                     </div>
                 </div>
@@ -161,24 +191,21 @@
                     <div class="card project-card h-100">
                         <img src="https://via.placeholder.com/600x400" class="card-img-top" alt="Project 3">
                         <div class="card-body">
-                            <h3 class="card-title h5">Task Management App</h3>
+                            <h3 class="card-title h5">Currency Converter</h3>
                             <p class="card-text">A web application for managing daily tasks and tracking progress.</p>
                             <div class="d-flex gap-2">
-                                <span class="badge bg-primary">HTML</span>
-                                <span class="badge bg-info">CSS</span>
-                                <span class="badge bg-warning text-dark">JavaScript</span>
+                                <span class="badge bg-primary">Java</span>
                             </div>
                         </div>
                         <div class="card-footer bg-white border-top-0">
-                            <a href="#" class="btn btn-outline-primary me-2">View Live</a>
-                            <a href="#" class="btn btn-outline-dark">Source Code</a>
+                            <a href="[#](https://github.com/ThatoJonathanMokupo/Java-Projects/blob/main/currencyconverter.java)" class="btn btn-outline-primary me-2">View Live</a>
+                            <a href="https://github.com/ThatoJonathanMokupo/Java-Projects/blob/main/currencyconverter.java" class="btn btn-outline-dark">Source Code</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
     <!-- Contact Section -->
     <section id="contact" class="py-5 bg-light">
         <div class="container">
@@ -216,14 +243,13 @@
             </div>
         </div>
     </section>
-
     <!-- Footer -->
     <footer class="bg-dark text-white py-4">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h3 class="h5">Jonathan Mokupo</h3>
-                    <p>Web Developer & Designer</p>
+                    <h3 class="h5">Thato Jonathan Mokupo</h3>
+                    <p>Back End developer & database administrator.</p>
                 </div>
                 <div class="col-md-6 text-md-end">
                     <div class="social-links">
@@ -236,7 +262,7 @@
             </div>
             <hr>
             <div class="text-center">
-                <p class="mb-0">&copy; 2023 Jonathan Mokupo. All rights reserved.</p>
+                <p class="mb-0">&copy; 2025 Jonathan Mokupo. All rights reserved.</p>
             </div>
         </div>
     </footer>
