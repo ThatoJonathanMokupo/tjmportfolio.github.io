@@ -72,7 +72,7 @@
                     <div class="card h-100 skill-card">
                         <div class="card-body text-center">
                             <i class="fab fa-html5 fa-3x text-danger mb-3"></i>
-                            <h3 class="card-title h5">HTML5</h3>
+                            <h3 class="card-title h5">Java</h3>
                             <div class="progress">
                                 <div class="progress-bar bg-danger" role="progressbar" style="width: 95%"></div>
                             </div>
@@ -83,7 +83,7 @@
                     <div class="card h-100 skill-card">
                         <div class="card-body text-center">
                             <i class="fab fa-css3-alt fa-3x text-primary mb-3"></i>
-                            <h3 class="card-title h5">CSS3</h3>
+                            <h3 class="card-title h5">LUA</h3>
                             <div class="progress">
                                 <div class="progress-bar bg-primary" role="progressbar" style="width: 90%"></div>
                             </div>
@@ -94,9 +94,9 @@
                     <div class="card h-100 skill-card">
                         <div class="card-body text-center">
                             <i class="fab fa-js fa-3x text-warning mb-3"></i>
-                            <h3 class="card-title h5">JavaScript</h3>
+                            <h3 class="card-title h5">Python</h3>
                             <div class="progress">
-                                <div class="progress-bar bg-warning" role="progressbar" style="width: 85%"></div>
+                                <div class="progress-bar bg-warning" role="progressbar" style="width: 50%"></div>
                             </div>
                         </div>
                     </div>
@@ -105,7 +105,7 @@
                     <div class="card h-100 skill-card">
                         <div class="card-body text-center">
                             <i class="fab fa-bootstrap fa-3x text-purple mb-3"></i>
-                            <h3 class="card-title h5">Bootstrap</h3>
+                            <h3 class="card-title h5"></h3>
                             <div class="progress">
                                 <div class="progress-bar" role="progressbar" style="width: 88%; background-color: #7952b3;"></div>
                             </div>
