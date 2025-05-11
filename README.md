@@ -143,7 +143,7 @@
             <div class="row g-4">
                 <div class="col-md-6 col-lg-4">
                     <div class="card project-card h-100">
-                        <img src="https://via.placeholder.com/600x400" class="card-img-top" alt="Project 1">
+                        <img src="https://www.servcorp.co.uk/media/34561/e-commerce-img.jpeg?format=webp&quality=70&width=688" class="card-img-top" alt="Project 1">
                         <div class="card-body">
                             <h3 class="card-title h5">E-commerce Website</h3>
                             <p class="card-text">A fully responsive e-commerce platform with shopping cart and payment integration.</p>
@@ -161,7 +161,7 @@
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="card project-card h-100">
-                        <img src="https://via.placeholder.com/600x400" class="card-img-top" alt="Project 2">
+                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Grand_Theft_Auto_V.png/250px-Grand_Theft_Auto_V.png" class="card-img-top" alt="Project 2">
                         <div class="card-body">
                             <h3 class="card-title h5">FiveM GTA RP Server.</h3>
                             <p class="card-text">Immersive and highly customizable gaming experience built off of GTA V and ESX and QB Core framework.</p>
@@ -179,7 +179,7 @@
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="card project-card h-100">
-                        <img src="https://via.placeholder.com/600x400" class="card-img-top" alt="Project 2">
+                        <img src="https://media.licdn.com/dms/image/v2/C4E0BAQEsjXKAQtX7NA/company-logo_200_200/company-logo_200_200/0/1643182164150?e=2147483647&v=beta&t=hU07CGRtK4lKvggCsNtAuLB44VTMxvhUiRVUoYwntgI" class="card-img-top" alt="Project 2">
                         <div class="card-body">
                             <h3 class="card-title h5">QP Drone Tech Website.</h3>
                             <p class="card-text">My previous employers website.</p>
@@ -194,7 +194,7 @@
                 </div>
                  <div class="col-md-6 col-lg-4">
                     <div class="card project-card h-100">
-                        <img src="https://via.placeholder.com/600x400" class="card-img-top" alt="Project 2">
+                        <img src="https://d3lc2v4pocabbd.cloudfront.net/wp-content/uploads/2022/08/online-booking-traveling-plane-flight-concept_53876-133675.webp" class="card-img-top" alt="Project 2">
                         <div class="card-body">
                             <h3 class="card-title h5">Flight booking system.</h3>
                             <p class="card-text">Simple booking system.</p>
@@ -210,7 +210,7 @@
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="card project-card h-100">
-                        <img src="https://via.placeholder.com/600x400" class="card-img-top" alt="Project 3">
+                        <img src="https://nordicapis.com/wp-content/uploads/10-APIs-For-Currency-Exchange-Rates-1024x576.jpg" class="card-img-top" alt="Project 3">
                         <div class="card-body">
                             <h3 class="card-title h5">Currency Converter</h3>
                             <p class="card-text">A simple currecy converter.</p>
