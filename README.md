@@ -54,7 +54,7 @@
                     <p class="lead">Hello! I'm Thato Jonathan Mokupo but Jonathan is fine I'am an aspiring developer currently looking for work in the It field with a lot of different proficiencies i will allow my CV to explain more.</p>
                     <p>A short overview is that I specialize in back end OOP how ever i do have some front end skills as well as experience in 4IR and hardware as well as database administration as I have experience as a simulation engineer and Digitial transformation officer.</p>
                     <p>When I'm not coding, you can find me partaking in a few differetn hobbies such as Gaming,working on my car,excercising,learning about new technology and studying for my Bcom in IT.</p>
-                    <a href="ThatoJonathanMokupoCV" class="btn btn-primary mt-3">Download CV</a>
+                    <a href="https://drive.google.com/file/d/19cr-wsSoBv6VZNazGiou9epfUkwxfF9O/view?usp=drive_link" class="btn btn-primary mt-3">Download CV</a>
                 </div>
                 <div class="col-lg-6">
                     <img src="[https://via.placeholder.com/600x400](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROlzguvilzJL4yDaSpofKJyytnW6zC8pUp8g&s)" alt="Thato Jonathan Mokupo" class="img-fluid rounded shadow">
@@ -204,7 +204,7 @@
                         </div>
                         <div class="card-footer bg-white border-top-0">
                             <a href="https://github.com/ThatoJonathanMokupo/Java-Projects/blob/main/tair.java" class="btn btn-outline-primary me-2">View Live</a>
-                            <a href="[https://www.qpdronetech.co.za/](https://github.com/ThatoJonathanMokupo/Java-Projects/blob/main/tair.java)" class="btn btn-outline-dark">Source Code</a>
+                            <a href="https://github.com/ThatoJonathanMokupo/Java-Projects/blob/main/tair.java" class="btn btn-outline-dark">Source Code</a>
                         </div>
                     </div>
                 </div>
@@ -227,43 +227,6 @@
             </div>
         </div>
     </section>
-    <!-- Contact Section -->
-    <section id="contact" class="py-5 bg-light">
-        <div class="container">
-            <h2 class="section-title text-center mb-5">Get In Touch</h2>
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <div class="card shadow">
-                        <div class="card-body p-4">
-                            <form>
-                                <div class="row g-3">
-                                    <div class="col-md-6">
-                                        <label for="name" class="form-label">Name</label>
-                                        <input type="text" class="form-control" id="name" required>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <label for="email" class="form-label">Email</label>
-                                        <input type="email" class="form-control" id="email" required>
-                                    </div>
-                                    <div class="col-12">
-                                        <label for="subject" class="form-label">Subject</label>
-                                        <input type="text" class="form-control" id="subject" required>
-                                    </div>
-                                    <div class="col-12">
-                                        <label for="message" class="form-label">Message</label>
-                                        <textarea class="form-control" id="message" rows="5" required></textarea>
-                                    </div>
-                                    <div class="col-12 text-center">
-                                        <button type="submit" class="btn btn-primary btn-lg">Send Message</button>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
     <!-- Footer -->
     <footer class="bg-dark text-white py-4">
         <div class="container">
@@ -274,10 +237,8 @@
                 </div>
                 <div class="col-md-6 text-md-end">
                     <div class="social-links">
-                        <a href="#" class="text-white me-3"><i class="fab fa-github fa-lg"></i></a>
-                        <a href="#" class="text-white me-3"><i class="fab fa-linkedin fa-lg"></i></a>
-                        <a href="#" class="text-white me-3"><i class="fab fa-twitter fa-lg"></i></a>
-                        <a href="#" class="text-white"><i class="fab fa-instagram fa-lg"></i></a>
+                        <a href="https://github.com/ThatoJonathanMokupo" class="text-white me-3"><i class="fab fa-github fa-lg"></i></a>
+                        <a href="https://www.linkedin.com/in/jonathan-mokupo-b95077262/" class="text-white me-3"><i class="fab fa-linkedin fa-lg"></i></a>
                     </div>
                 </div>
             </div>
