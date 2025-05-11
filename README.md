@@ -197,7 +197,7 @@
                         <img src="https://via.placeholder.com/600x400" class="card-img-top" alt="Project 2">
                         <div class="card-body">
                             <h3 class="card-title h5">Flight booking system.</h3>
-                            <p class="card-text">Simple booking system..</p>
+                            <p class="card-text">Simple booking system.</p>
                             <div class="d-flex gap-2">
                                 <span class="badge bg-primary">Java</span>
                             </div>
@@ -213,7 +213,7 @@
                         <img src="https://via.placeholder.com/600x400" class="card-img-top" alt="Project 3">
                         <div class="card-body">
                             <h3 class="card-title h5">Currency Converter</h3>
-                            <p class="card-text">A web application for managing daily tasks and tracking progress.</p>
+                            <p class="card-text">A simple currecy converter.</p>
                             <div class="d-flex gap-2">
                                 <span class="badge bg-primary">Java</span>
                             </div>
