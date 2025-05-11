@@ -7,7 +7,7 @@
     --danger-color: #dc3545;
 }
 
-body {
+h1, h2, body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.6;
     color: #000000;
