@@ -57,7 +57,7 @@
                     <a href="https://drive.google.com/file/d/19cr-wsSoBv6VZNazGiou9epfUkwxfF9O/view?usp=drive_link" class="btn btn-primary mt-3">Download CV</a>
                 </div>
                 <div class="col-lg-6">
-                    <img src="[https://via.placeholder.com/600x400](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROlzguvilzJL4yDaSpofKJyytnW6zC8pUp8g&s)" alt="Thato Jonathan Mokupo" class="img-fluid rounded shadow">
+                    <img src="https://media.licdn.com/dms/image/v2/D5603AQEFDyh1pnXlZA/profile-displayphoto-shrink_200_200/B56ZYaBONsHQAY-/0/1744193252386?e=1752710400&v=beta&t=aJZZubyxSV21an35FV9KY3Zv15_H0xiWxn0hvG-VKx4" alt="Thato Jonathan Mokupo" class="img-fluid rounded shadow">
                 </div>
             </div>
         </div>
