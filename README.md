@@ -58,7 +58,7 @@
                     <a href="#" class="btn btn-primary mt-3">Download CV</a>
                 </div>
                 <div class="col-lg-6">
-                    <img src="https://via.placeholder.com/600x400" alt="Jonathan Mokupo" class="img-fluid rounded shadow">
+                    <img src="[https://via.placeholder.com/600x400](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROlzguvilzJL4yDaSpofKJyytnW6zC8pUp8g&s)" alt="Thato Jonathan Mokupo" class="img-fluid rounded shadow">
                 </div>
             </div>
         </div>
