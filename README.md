@@ -42,7 +42,7 @@
             <h1 class="display-1 fw-bold mb-4">Thato Jonathan Mokupo</h1>
             <h2 class="display-5 mb-5">Back end Developer & Database Administrator</h2>
             <a href="#contact" class="btn btn-primary btn-lg me-3">Get In Touch</a>
-            <a href="#projects" class="btn btn-outline-light btn-lg">View My Work</a>
+            <a href="#contact" class="btn btn-primary btn-lg me-3">View My Work</a>
         </div>
     </header>
     <!-- About Section -->
