@@ -221,7 +221,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
             <div class="col-md-6 col-lg-4">
                     <div class="card project-card h-100">
                         <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/TFG_Limited_Logo.svg/1200px-TFG_Limited_Logo.svg.png" class="card-img-top" alt="Project 3">
@@ -238,8 +237,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
         <div class="col-md-6 col-lg-4">
                     <div class="card project-card h-100">
                         <img src="https://img-ik.cars.co.za/news-site-za/images/2021/02/cars.co_.za_-_logo.jpg" class="card-img-top" alt="Project 3">
@@ -256,8 +253,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
         <div class="col-md-6 col-lg-4">
                     <div class="card project-card h-100">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLiUpd1IEVQcob_m-KQ4DRzO6vs9xxXQatvHNOwmNhnr4q9Mr8OD40v1Lv2UyAQLQML8&usqp=CAU" class="card-img-top" alt="Project 3">
@@ -274,8 +269,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
     </section>
     <!-- Footer -->
     <footer class="bg-dark text-white py-4">
