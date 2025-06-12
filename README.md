@@ -78,8 +78,6 @@
             </div>
         </div>
     </section>
-<<<<<<< HEAD
-<<<<<<< HEAD
     <!-- Projects Section -->
     <section id="projects" class="py-5">
         <div class="container">
@@ -215,19 +213,8 @@
                             <a href="[#](https://broadreachcorporation.com)" class="btn btn-outline-primary me-2">View Live</a>
                         </div>
                     </div>
-<<<<<<< HEAD
-<<<<<<< HEAD
-                </section>
-=======
-=======
                 </div>
->>>>>>> parent of 2eea815 (Update README.md)
     </section>
->>>>>>> parent of c39eee2 (Update README.md)
-=======
->>>>>>> parent of 9244d7e (Update README.md)
-=======
->>>>>>> parent of 9244d7e (Update README.md)
     <!-- Footer -->
     <footer class="bg-dark text-white py-4">
         <div class="container">
@@ -245,25 +232,8 @@
             </div>
         </div>
     </footer>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="js/script.js"></script>
-</body>
-</html>
->>>>>>> parent of c39eee2 (Update README.md)
-=======
-=======
->>>>>>> parent of 9244d7e (Update README.md)
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
 
-<<<<<<< HEAD
->>>>>>> parent of 9244d7e (Update README.md)
-=======
->>>>>>> parent of 9244d7e (Update README.md)
