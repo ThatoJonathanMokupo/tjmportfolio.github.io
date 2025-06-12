@@ -51,7 +51,7 @@
                     <p class="lead">Hello! I'm Thato Jonathan Mokupo but Jonathan is fine I'am an aspiring developer currently looking for work in the It field with a lot of different proficiencies i will allow my CV to explain more.</p>
                     <p>A short overview is that I specialize in back end OOP how ever i do have some front end skills as well as experience in 4IR and hardware as well as database administration as I have experience as a simulation engineer and Digitial transformation officer.</p>
                     <p>When I'm not coding, you can find me partaking in a few differetn hobbies such as Gaming,working on my car,excercising,learning about new technology and studying for my Bcom in IT.</p>
-                    <a href="https://drive.google.com/file/d/19cr-wsSoBv6VZNazGiou9epfUkwxfF9O/view?usp=drive_link" class="btn btn-primary mt-3">Download CV</a>
+                    <a href="https://drive.google.com/file/d/18R3IGmi-8PWPVye6ron4eVkiATMR-dPo/view?usp=sharing" class="btn btn-primary mt-3">Download CV</a>
                 </div>
                 <div class="col-lg-6">
                     <img src="https://media.licdn.com/dms/image/v2/D5603AQEFDyh1pnXlZA/profile-displayphoto-shrink_200_200/B56ZYaBONsHQAY-/0/1744193252386?e=1752710400&v=beta&t=aJZZubyxSV21an35FV9KY3Zv15_H0xiWxn0hvG-VKx4" alt="Thato Jonathan Mokupo" class="img-fluid rounded shadow">
