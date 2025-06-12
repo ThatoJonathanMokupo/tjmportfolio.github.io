@@ -79,6 +79,7 @@
         </div>
     </section>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <!-- Projects Section -->
     <section id="projects" class="py-5">
         <div class="container">
@@ -225,6 +226,8 @@
 >>>>>>> parent of c39eee2 (Update README.md)
 =======
 >>>>>>> parent of 9244d7e (Update README.md)
+=======
+>>>>>>> parent of 9244d7e (Update README.md)
     <!-- Footer -->
     <footer class="bg-dark text-white py-4">
         <div class="container">
@@ -244,6 +247,7 @@
     </footer>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
@@ -252,9 +256,14 @@
 </html>
 >>>>>>> parent of c39eee2 (Update README.md)
 =======
+=======
+>>>>>>> parent of 9244d7e (Update README.md)
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
 
+<<<<<<< HEAD
+>>>>>>> parent of 9244d7e (Update README.md)
+=======
 >>>>>>> parent of 9244d7e (Update README.md)
